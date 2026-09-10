@@ -1,0 +1,22 @@
+{
+  "name": "ai-skills",
+  "owner": {
+    "name": "Harish Dhanraj Sugandhi",
+    "email": "harishs@bsf.io"
+  },
+  "metadata": {
+    "description": "Private AI skills marketplace",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "bsf",
+      "source": "./bsf",
+      "description": "BSF skills — PR review (single PR or coordinated cross-repo pair)",
+      "version": "1.0.0",
+      "author": { "name": "Brainstorm Force" },
+      "category": "productivity",
+      "tags": ["skills", "code-review", "pull-request", "laravel", "wordpress", "react"]
+    }
+  ]
+}

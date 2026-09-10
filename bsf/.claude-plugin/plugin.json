@@ -1,0 +1,12 @@
+{
+  "name": "bsf",
+  "version": "1.0.0",
+  "description": "BSF skills — PR review for a single PR or a coordinated pair of PRs across two repos",
+  "author": {
+    "name": "Brainstorm Force",
+    "url": "https://github.com/brainstormforce"
+  },
+  "license": "MIT",
+  "keywords": ["skills", "code-review", "pull-request", "laravel", "wordpress", "react"],
+  "skills": "./skills/"
+}

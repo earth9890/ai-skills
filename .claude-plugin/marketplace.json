@@ -6,17 +6,17 @@
   },
   "metadata": {
     "description": "Private AI skills marketplace",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "plugins": [
     {
       "name": "bsf",
       "source": "./bsf",
-      "description": "BSF skills — PR review (single PR or coordinated cross-repo pair)",
-      "version": "1.0.0",
+      "description": "BSF skills — PR review (single PR or coordinated cross-repo pair) and two-repo release cutting",
+      "version": "1.1.0",
       "author": { "name": "Brainstorm Force" },
       "category": "productivity",
-      "tags": ["skills", "code-review", "pull-request", "laravel", "wordpress", "react"]
+      "tags": ["skills", "code-review", "pull-request", "release", "changelog", "laravel", "wordpress", "react"]
     }
   ]
 }
